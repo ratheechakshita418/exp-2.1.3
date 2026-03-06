@@ -1,0 +1,11 @@
+ecommerce-catalog
+│
+├── server.js
+├── models
+│   └── Product.js
+├── routes
+│   └── productRoutes.js
+├── controllers
+│   └── productController.js
+├── package.json
+└── README.md
